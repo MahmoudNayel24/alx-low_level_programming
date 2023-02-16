@@ -4,7 +4,9 @@
 
 */
 #include<stdio.h>
-/* function to print*/
+/*
+*this function named main it's job is to print the text written
+*/
 int main(void)
 {
 /* this prints */
