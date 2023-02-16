@@ -1,4 +1,5 @@
 #include<stdio.h>
+/* function to print kosomk*/
 int main(void)
 {
 /* this prints fk you */
