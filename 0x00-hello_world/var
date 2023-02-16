@@ -1,0 +1,4 @@
+#!/bin/bash/
+CFILE=test.c
+gcc -S $CFILE -o test2
+nano test2
