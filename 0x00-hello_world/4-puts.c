@@ -1,9 +1,12 @@
-/* fasigfhasghasjklghajshgjla */
+/* fasigfhasghasjklghajshgjla
+*return: 0
+*
+ */
 #include<stdio.h>
-/* function to print kosomk*/
+/* function to print*/
 int main(void)
 {
-/* this prints fk you */
+/* this prints */
 char Str1[] = "\"Programming is like building a multilingual puzzle";
 
 puts(Str1);
