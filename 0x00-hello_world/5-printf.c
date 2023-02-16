@@ -1,14 +1,12 @@
-#include<stdio.h>
-/*
-*this function named void what is does that is print the text
-*/
+#include <stdio.h>
+
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
-char Str1[] = "with proper grammar, but the outcome is a piece of art,";
-printf ("%s",Str1);
-
-return (0);
-
-
-
+	printf("with proper grammar, but the outcome is a piece of art,\n");
+	return (0);
 }

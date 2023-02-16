@@ -1,17 +1,12 @@
-/*
-* fasigfhasghasjklghajshgjla
-*return: 0
+#include <stdio.h>
 
-*/
-#include<stdio.h>
-/*
-*this function named main it's job is to print the text written
-*/
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
-/* this prints */
-char Str1[] = "\"Programming is like building a multilingual puzzle";
-
-puts(Str1);
-return (0);
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
