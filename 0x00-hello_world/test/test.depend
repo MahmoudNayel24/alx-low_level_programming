@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1676786451 source:/home/dedo/alx-low_level_programming/0x00-hello_world/test/main.c
+	<stdio.h>
+	<stdlib.h>
+
