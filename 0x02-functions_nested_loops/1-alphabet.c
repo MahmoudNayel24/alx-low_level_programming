@@ -1,6 +1,7 @@
 #include "main.h"
 /**
- * print_alphabet : as said it prints alphabet
+ * this is a funcion with main function i don't know why
+ * print_alphabet : as said it prints alphabetfasfs fasf
  * Return : value always = 0
  */
 
