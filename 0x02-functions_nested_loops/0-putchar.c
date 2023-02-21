@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * main - a for loop to print the word putchar
- * Return value  always = 0
+ * Return: value  always = 0
  */
 
 int main(void)
