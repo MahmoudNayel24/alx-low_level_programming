@@ -8,7 +8,7 @@
  */
 void print_alphabet_x10(void)
 {
-	int j=0 , i;
+	int j = 0, i;
 
 	while (j < 10)
 	{
