@@ -1,8 +1,10 @@
 #include "main.h"
 /**
- * print_alphabet : as said it prints alphabetfasfs fasf
+ * print_alphabet : as said it prints alphabetfasfs
+ *
+ * Description: kos om betty style documentation
  * Return : value always = 0
- * initial short description : kos om el betty documentation style
+ *
  */
 
 
