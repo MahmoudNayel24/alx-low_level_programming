@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_alphabet : as said it prints alphabetfasfs
+ * print_alphabet -  as said it prints alphabet from a to z.
  *
  * Description: kos om betty style documentation
  * Return : value always = 0
