@@ -1,3 +1,4 @@
+#include <ctype.h>
 #include "main.h"
 /**
  * _isupper checks wether the letter is uppercase or not
